@@ -5,3 +5,7 @@
 ```python
 print("¡Hola, mundo!")
 ```
+- [ ] Finish Github courses
+- [ ] Take ss for evidence
+- [ ] Upload the evidence into the platform
+
